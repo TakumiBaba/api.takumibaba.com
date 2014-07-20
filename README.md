@@ -26,8 +26,28 @@ http://api.takumibaba.com/
 - アマゾンで何かを届ける
 - 電話する
   - Twillio 使ったりする
+- baba が持つコンピュータリソースを使う？
 
 - http request
 - websocket
 - 認証状況に応じて、得られる情報が異なる
   - facebook友達なら、電話番号も得られるとか
+
+
+## Routing
+
+- /message
+  - GET (receive message)
+    - request
+      - query
+        - id
+    - response
+      - text
+  - POST(send message)
+    - request
+      - body
+        - text
+        - from
+    - response
+      - id
+      - createdAt
