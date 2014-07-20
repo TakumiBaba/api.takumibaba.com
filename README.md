@@ -11,6 +11,6 @@ http://api.takumibaba.com/
 - 金を送る
 - アマゾンで何かを届ける
 
-## Routing
 
-- 
+- http request
+- websocket
