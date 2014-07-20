@@ -14,7 +14,6 @@ http://api.takumibaba.com/
   - 寝てるか起きてるか
 - 何か行動させる
   - 〇〇やれ
-  - 
 - メッセージを送る
   - twitter
   - メール
@@ -51,3 +50,16 @@ http://api.takumibaba.com/
     - response
       - id
       - createdAt
+
+- /phone
+  - GET
+  - POST
+
+- /status
+  - GET
+    - request
+      - query...
+
+- /etc
+  - TBD
+  
