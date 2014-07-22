@@ -63,8 +63,10 @@ hubotとかで作ってしまいたい
       - id
       - createdAt
 
-- /phone
+- /call
   - GET
+    -  query
+    -  from
   - POST
 
 - /status
@@ -75,3 +77,8 @@ hubotとかで作ってしまいたい
 - /etc
   - TBD
   
+
+## call
+
+voice call service wih takumi baba
+
