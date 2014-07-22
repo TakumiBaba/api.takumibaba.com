@@ -11,7 +11,7 @@ Babascript の API 版に近いもの
 hubotとかで作ってしまいたい
 が、viewが必要になりそうな要素もあるので...
 
-## できること(予定)
+## function
 
 - 基本情報を得る
   - 電話番号
@@ -40,6 +40,10 @@ hubotとかで作ってしまいたい
 - 認証状況に応じて、得られる情報が異なる
   - facebook友達なら、電話番号も得られるとか
 
+## Implementation
+
+- node.js
+- with express
 
 ## Routing
 
