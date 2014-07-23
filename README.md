@@ -1,4 +1,4 @@
-BabaAPI
+API server for communiating with baba
 =======
 
 http://api.takumibaba.com/
@@ -29,11 +29,9 @@ hubotとかで作ってしまいたい
   - etc...
 - 金を送る
   - Web Pay 的な
-  - 
 - アマゾンで何かを届ける
 - 電話する
-  - Twillio 使ったりする
-- baba が持つコンピュータリソースを使う？
+  - Twillio 使ったり
 
 - http request
 - websocket
